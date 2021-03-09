@@ -1,0 +1,30 @@
+const FAVORITES_REQUEST = '@@bookshelves/FAVORITES_REQUEST';
+const FAVORITES_SUCCESS = '@@bookshelves/FAVORITES_SUCCESS';
+const FAVORITES_FAILURE = '@@bookshelves/FAVORITES_FAILURE';
+
+const WANTTOREAD_REQUEST = '@@bookshelves/WANTTOREAD_REQUEST';
+const WANTTOREAD_SUCCESS = '@@bookshelves/WANTTOREAD_SUCCESS';
+const WANTTOREAD_FAILURE = '@@bookshelves/WANTTOREAD_FAILURE';
+
+
+const READ_REQUEST = '@@bookshelves/READ_REQUEST';
+const READ_SUCCESS = '@@bookshelves/READ_SUCCESS';
+const READ_FAILURE = '@@bookshelves/READ_FAILURE';
+
+
+const DELETE_BOOK = '@@bookshelves/DELETE_BOOK';
+
+const types = { 
+    FAVORITES_REQUEST, 
+    FAVORITES_SUCCESS,
+    FAVORITES_FAILURE,
+    DELETE_BOOK,
+    WANTTOREAD_REQUEST,
+    WANTTOREAD_SUCCESS,
+    WANTTOREAD_FAILURE,
+    READ_REQUEST,
+    READ_SUCCESS,
+    READ_FAILURE
+}
+
+export default types

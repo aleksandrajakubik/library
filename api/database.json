@@ -1,0 +1,439 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "author": {
+        "id": 1,
+        "name": "Samantha Shannon",
+        "img_url": "https://pbs.twimg.com/profile_images/1340320628843417601/2bcI1i-2.jpg",
+        "age": 29,
+        "status": "alive"
+      },
+      "publisher": {
+        "id": 1,
+        "name": "Bloomsbury Publishing"
+      },
+      "country": "England",
+      "language": "English",
+      "pages": 848,
+      "title": "The Priory of the Orange Tree",
+      "img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527807139l/40275288._SY475_.jpg",
+      "year": 2019,
+      "genre": "Fantasy",
+      "ISBN": "978-16-3557-030-4"
+    },
+    {
+      "id": 2,
+      "author": {
+        "id": 2,
+        "name": "Tahereh Mafi",
+        "img_url": "https://www.taherehbooks.com/wp-content/uploads/2019/11/taherehmafi-new.jpg",
+        "age": 32,
+        "status": "alive"
+      },
+      "publisher": {
+        "id": 2,
+        "name": "HarperCollins"
+      },
+      "country": "United States",
+      "language": "English",
+      "pages": 310,
+      "title": "A Very Large Expanse of Sea",
+      "img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558453377l/38720939._SY475_.jpg",
+      "year": 2018,
+      "genre": "Young adult",
+      "ISBN": "978-00-6286-657-8"
+    },
+    {
+      "id": 3,
+      "author": {
+        "id": 3,
+        "name": "Isabel Sterling",
+        "img_url": "https://images.gr-assets.com/authors/1577484556p5/8123982.jpg",
+        "age": 30,
+        "status": "alive"
+      },
+      "publisher": {
+        "id": 3,
+        "name": "Razorbill"
+      },
+      "country": "United States",
+      "language": "English",
+      "pages": 336,
+      "title": "These Witches Don't Burn",
+      "img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541163363l/36484081._SY475_.jpg",
+      "year": 2019,
+      "genre": "Fantasy",
+      "ISBN": "978-04-5148-034-7"
+    },
+    {
+      "id": 4,
+      "author": {
+        "id": 4,
+        "name": "Terry Hayes",
+        "img_url": "https://images.gr-assets.com/authors/1371103159p5/904939.jpg",
+        "age": 69,
+        "status": "alive"
+      },
+      "publisher": {
+        "id": 4,
+        "name": "Emily Bestler Books"
+      },
+      "country": "USA",
+      "language": "English",
+      "pages": 612,
+      "title": "I Am Pilgrim",
+      "img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403345411l/18144124.jpg",
+      "year": 2014,
+      "genre": "Thriller",
+      "ISBN": "978-14-3917-772-3"
+    },
+    {
+      "id": 5,
+      "author": {
+        "id": 5,
+        "name": "Frank Herbert",
+        "img_url": "https://images.gr-assets.com/authors/1591018335p5/58.jpg",
+        "age": 65,
+        "status": "dead"
+      },
+      "publisher": {
+        "id": 5,
+        "name": "Ace Books"
+      },
+      "country": "United States",
+      "language": "English",
+      "pages": 661,
+      "title": "Dune",
+      "img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555447414l/44767458.jpg",
+      "year": 1965,
+      "genre": "Science fiction",
+      "ISBN": "978-04-4101-359-3"
+    },
+    {
+      "id": 6,
+      "author": {
+        "id": 6,
+        "name": "Suzanne Collins",
+        "img_url": "https://mma.prnewswire.com/media/1169704/Suzanne_Collins.jpg?p=publish",
+        "age": 58,
+        "status": "alive"
+      },
+      "publisher": {
+        "id": 6,
+        "name": "Scholastic Press"
+      },
+      "country": "United States",
+      "language": "English",
+      "pages": 439,
+      "title": "The Ballad of Songbirds and Snakes",
+      "img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593892032l/51901147._SY475_.jpg",
+      "year": 2020,
+      "genre": "Young adult",
+      "ISBN": "978-13-3863-517-1"
+    },
+    {
+      "id": 7,
+      "author": {
+        "id": 6,
+        "name": "Suzanne Collins",
+        "img_url": "https://mma.prnewswire.com/media/1169704/Suzanne_Collins.jpg?p=publish",
+        "age": 58,
+        "status": "alive"
+      },
+      "publisher": {
+        "id": 6,
+        "name": "Scholastic Press"
+      },
+      "country": "United States",
+      "language": "English",
+      "pages": 374,
+      "title": "The Hunger Games",
+      "img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722975l/2767052.jpg",
+      "year": 2008,
+      "genre": "Young adult",
+      "ISBN": "978-04-3902-352-8"
+    },
+    {
+      "id": 8,
+      "author": {
+        "id": 6,
+        "name": "Suzanne Collins",
+        "img_url": "https://mma.prnewswire.com/media/1169704/Suzanne_Collins.jpg?p=publish",
+        "age": 58,
+        "status": "alive"
+      },
+      "publisher": {
+        "id": 6,
+        "name": "Scholastic Press"
+      },
+      "country": "United States",
+      "language": "English",
+      "pages": 391,
+      "title": "Catching Fire",
+      "img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722941l/6148028.jpg",
+      "year": 2009,
+      "genre": "Young adult",
+      "ISBN": "978-05-4558-617-7"
+    },
+    {
+      "id": 9,
+      "author": {
+        "id": 6,
+        "name": "Suzanne Collins",
+        "img_url": "https://mma.prnewswire.com/media/1169704/Suzanne_Collins.jpg?p=publish",
+        "age": 58,
+        "status": "alive"
+      },
+      "publisher": {
+        "id": 6,
+        "name": "Scholastic Press"
+      },
+      "country": "United States",
+      "language": "English",
+      "pages": 398,
+      "title": "Mockingjay",
+      "img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722918l/7260188.jpg",
+      "year": 2010,
+      "genre": "Young adult",
+      "ISBN": "978-05-4566-326-7"
+    },
+    {
+      "id": 10,
+      "author": {
+        "id": 7,
+        "name": "B.A. Paris",
+        "img_url": "https://images.gr-assets.com/authors/1497031605p5/14425604.jpg",
+        "age": 63,
+        "status": "alive"
+      },
+      "publisher": {
+        "id": 7,
+        "name": "St. Martin's Griffin"
+      },
+      "country": "England",
+      "language": "English",
+      "pages": 293,
+      "title": "Behind Closed Doors",
+      "img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458854462l/29437949.jpg",
+      "year": 2016,
+      "genre": "Thriller",
+      "ISBN": "978-12-5013-236-9"
+    },
+    {
+      "id": 11,
+      "author": {
+        "id": 8,
+        "name": "Tess Gerritsen",
+        "img_url": "https://www.tessgerritsen.com/wp-content/files/Tess-Gerritsen-lg.jpg",
+        "age": 67,
+        "status": "alive"
+      },
+      "publisher": {
+        "id": 8,
+        "name": "Bantam"
+      },
+      "country": "United States",
+      "language": "English",
+      "pages": 416,
+      "title": "The Surgeon",
+      "img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1277923728l/32263.jpg",
+      "year": 2005,
+      "genre": "Mystery",
+      "ISBN": "978-11-0188-742-4"
+    },
+    {
+      "id": 12,
+      "author": {
+        "id": 8,
+        "name": "Tess Gerritsen",
+        "img_url": "https://www.tessgerritsen.com/wp-content/files/Tess-Gerritsen-lg.jpg",
+        "age": 67,
+        "status": "alive"
+      },
+      "publisher": {
+        "id": 8,
+        "name": "Bantam"
+      },
+      "country": "United States",
+      "language": "English",
+      "pages": 355,
+      "title": "The Mephisto Club",
+      "img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389056704l/32254.jpg",
+      "year": 2006,
+      "genre": "Mystery",
+      "ISBN": "978-91-2396-667-7"
+    },
+    {
+      "id": 13,
+      "author": {
+        "id": 8,
+        "name": "Tess Gerritsen",
+        "img_url": "https://www.tessgerritsen.com/wp-content/files/Tess-Gerritsen-lg.jpg",
+        "age": 67,
+        "status": "alive"
+      },
+      "publisher": {
+        "id": 8,
+        "name": "Bantam"
+      },
+      "country": "United States",
+      "language": "English",
+      "pages": 338,
+      "title": "Last to Die",
+      "img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388194995l/13272498.jpg",
+      "year": 2012,
+      "genre": "Mystery",
+      "ISBN": "978-03-4551-552-0"
+    },
+    {
+      "id": 14,
+      "author": {
+        "id": 9,
+        "name": "Walter Isaacson",
+        "img_url": "https://images.gr-assets.com/authors/1192222433p5/7111.jpg",
+        "age": 68,
+        "status": "alive"
+      },
+      "publisher": {
+        "id": 9,
+        "name": "Simon & Schuster"
+      },
+      "country": "United States",
+      "language": "English",
+      "pages": 627,
+      "title": "Steve Jobs",
+      "img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511288482l/11084145._SY475_.jpg",
+      "year": 2011,
+      "genre": "Biography",
+      "ISBN": "978-14-5164-853-9"
+    },
+    {
+      "id": 15,
+      "author": {
+        "id": 1,
+        "name": "Samantha Shannon",
+        "img_url": "https://pbs.twimg.com/profile_images/1340320628843417601/2bcI1i-2.jpg",
+        "age": 29,
+        "status": "alive"
+      },
+      "publisher": {
+        "id": 1,
+        "name": "Bloomsbury Publishing"
+      },
+      "country": "England",
+      "language": "English",
+      "pages": 466,
+      "title": "The Bone Season",
+      "img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516752880l/17199504._SY475_.jpg",
+      "year": 2013,
+      "genre": "Fantasy",
+      "ISBN": "978-16-3286-848-0"
+    },
+    {
+      "id": 16,
+      "author": {
+        "id": 1,
+        "name": "Samantha Shannon",
+        "img_url": "https://pbs.twimg.com/profile_images/1340320628843417601/2bcI1i-2.jpg",
+        "age": 29,
+        "status": "alive"
+      },
+      "publisher": {
+        "id": 1,
+        "name": "Bloomsbury Publishing"
+      },
+      "country": "England",
+      "language": "English",
+      "pages": 510,
+      "title": "The Mime Order",
+      "img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421696237l/17901125.jpg",
+      "year": 2015,
+      "genre": "Fantasy",
+      "ISBN": "978-16-3286-849-7"
+    },
+    {
+      "id": 17,
+      "author": {
+        "id": 1,
+        "name": "Samantha Shannon",
+        "img_url": "https://pbs.twimg.com/profile_images/1340320628843417601/2bcI1i-2.jpg",
+        "age": 29,
+        "status": "alive"
+      },
+      "publisher": {
+        "id": 1,
+        "name": "Bloomsbury Publishing"
+      },
+      "country": "England",
+      "language": "English",
+      "pages": 384,
+      "title": "The Song Rising",
+      "img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464899007l/28260402.jpg",
+      "year": 2017,
+      "genre": "Fantasy",
+      "ISBN": "978-16-3286-624-0"
+    },
+    {
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "pages": "200",
+      "ISBN": "123-12-1234-123-1",
+      "genre": "testowa",
+      "country": "England",
+      "language": "English",
+      "year": "2020",
+      "img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499277281l/5.jpg",
+      "author": {
+        "name": "J K Rowling",
+        "img_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499277281l/5.jpg",
+        "age": "45",
+        "id": "0c77586f-e806-4006-bea3-57af6e12da32",
+        "status": "alive"
+      },
+      "publisher": {
+        "id": 6,
+        "name": "Scholastic Press"
+      },
+      "id": 18
+    }
+  ],
+  "wantToRead": [
+    {
+      "id": 14
+    },
+    {
+      "id": 7
+    }
+  ],
+  "read": [
+    {
+      "id": 13
+    },
+    {
+      "id": 10
+    }
+  ],
+  "favorites": [
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    }
+  ]
+}
