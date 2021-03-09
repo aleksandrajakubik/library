@@ -11,4 +11,4 @@ Final project for Univerisity course - Frontend Development.
 
 To run an API just type npm run json-server in your terminal.
 
-![HomePage](images/home.png)
+![HomePage](images/home.PNG)
